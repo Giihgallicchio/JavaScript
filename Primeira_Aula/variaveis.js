@@ -107,5 +107,4 @@ console.log(sub(2,4));
 const subtracao = (a,b) => {
     return a - b;
 }
-
 console.log(subtracao(4,2));
